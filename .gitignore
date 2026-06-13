@@ -1,0 +1,64 @@
+# Binaries and Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/[Gg][Oo][Ss][Hh][Aa][Dd][Oo][Ww]
+/[Gg][Oo][Ss][Hh][Aa][Dd][Oo][Ww]_*
+/G[Oo]S[Hh]adow      # Alternative pattern for safety
+
+# Config files 
+config.go
+*.config.go          # Catch any config variations
+.env
+*.env
+.env.* # Catch .env.local, .env.production, etc.
+
+# Test binaries
+/test/
+/test.exe
+*.test
+
+# IDE and Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini         # Windows desktop config
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Go workspace and build
+go.work
+go.work.sum
+*.mod~              # Backup of go.mod
+
+# Security sensitive
+*.key
+*.pem
+*.crt
+*.token
+secrets/
+credentials/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Coverage files
+*.cover
+*.out
+coverage.html
