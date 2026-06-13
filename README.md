@@ -1,6 +1,3 @@
----
-
-```markdown
 <div align="center">
 
 # 🎭 GoShadow C2
