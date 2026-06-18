@@ -1,6 +1,5 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1a0033,70:330066,100:6600cc&height=200&section=header&text=GoShadow%20C2&fontSize=54&fontColor=f0e6ff&animation=twinkling&fontAlignY=38&desc=🔐%20XOR%20Encrypted%20%C2%B7%20Memory%20Safe%20%C2%B7%20API%20Resilient&descAlignY=60&descSize=17&descColor=cc99ff"/>
 
-# 🎭 GoShadow C2
 
 ### A Stealthy Discord-Based Command & Control Framework
 
